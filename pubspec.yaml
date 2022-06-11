@@ -1,8 +1,10 @@
 name: super_grid_view
 description: A new Flutter project.
 version: 0.0.1
-author: Kadir Gorgun a.kadirgrgn@gmail.com
-homepage:
+author: Kadir Gorgun<a.kadirgrgn@gmail.com>
+homepage: https://github.com/kdrgrgn/super_grid_view.git
+
+
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
